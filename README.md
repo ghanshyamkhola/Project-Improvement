@@ -7,16 +7,7 @@ This task focuses on improving the overall project quality by organizing files, 
 ## Folder Structure
 
 ```
-AI-Internship-Day-12/
-│
-├── data/
-├── notebook/
-├── src/
-├── screenshots/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+
 
 ## Features
 
